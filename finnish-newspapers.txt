@@ -1,3 +1,5 @@
+0.0.0.0 hs.fi
+0.0.0.0 is.fi
 0.0.0.0 ylojarvenuutiset.fi
 0.0.0.0 ylasatakunta.fi
 0.0.0.0 ylakarjala.fi
