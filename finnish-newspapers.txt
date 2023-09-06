@@ -1,233 +1,233 @@
-ylojarvenuutiset.fi
-ylasatakunta.fi
-ylakarjala.fi
-ylakainuu.fi
-warkaudenlehti.fi
-viitasaarenseutu.fi
-viispiikkinen.fi
-viiskunta.fi
-viikkosavo.fi
-vihdinuutiset.fi
-verkkouutiset.fi
-vastranyland.fi
-vasabladet.fi
-vantaansanomat.fi
-valkeakoskensanomat.fi
-vakka.fi
-vaasalehti.fi
-vaarojensanomat.fi
-uutisvuoksi.fi
-uutismediat.fi
-uutisluotsi.fi
-uutis-jousi.fi
-uusisuomi.fi
-uusirovaniemi.fi
-uusimaa.fi
-uusilahti.fi
-uudenkaupunginsanomat.fi
-urjalansanomat.fi
-ulvilanseutu.fi
-tyrvaansanomat.fi
-turuntienoo.fi
-turunseutusanomat.fi
-turkulainen.fi
-ts.fi
-torstai-lehti.fi
-tervareitti.fi
-tejuka-lehti.fi
-tamperelainen.fi
-sydin.fi
-sydansatakunta.fi
-suurkeuruu.fi
-suupohjansanomat.fi
-suomenmaa.fi
-sulkavalehti.fi
-sss.fi
-sotkamolehti.fi
-sompio.fi
-somerolehti.fi
-soisalonseutu.fi
-sjl.fi
-sisis.fi
-sisasuomenlehti.fi
-sisa-savolehti.fi
-sipoonsanomat.fi
-siikajokilaakso.fi
-sievilainenlehti.fi
-shl.fi
-seutuneloset.fi
-seutuneloset.fi
-seutuneloset.fi
-seutuneloset.fi
-seutumajakka.fi
-selanne-lehti.fi
-savonsanomat.fi
-savonmaa.fi
-satakunnanviikko.fi
-satakunnankansa.fi
-sampolehti.fi
-ruovesi-lehti.fi
-ruovesi-lehti.fi
-raumalainen.fi
-rantapohja.fi
-rantalakeus.fi
-rannikkoseutu.fi
-raahenseutu.fi
-raahenseutu.fi
-pyhtaanlehti.fi
-pyhajokiseutu.fi
-pyhajarvensanomat.fi
-puumalalehti.fi
-puolankainfo.fi
-punkalaitumensanomat.fi
-prsanomat.fi
-pohjoisenpolut.fi
-pohjankyro-lehti.fi
-pogostansanomat.fi
-pku.fi
-pkank.fi
-pkank.fi
-pitajanuutiset.fi
-pitajalainen.fi
-pirkkalainen.fi
-pietarsaarensanomat.fi
-pielisjokiseutu.fi
-pielavesi-keitele.fi
-pieksamaenlehti.fi
-pernionseudunlehti.fi
-perhonjokilaakso.fi
-paikallisuutiset.fi
-padasjoensanomat.fi
-outokummunseutu.fi
-ostnyland.fi
-osterbottenstidning.fi
-orivedensanomat.fi
-orimattilansanomat.fi
-oivaseutu.fi
-nykypaiva.fi
-nyaostis.fi
-nurmijarvenuutiset.fi
-nokianuutiset.fi
-nivala-lehti.fi
-mikkelinkaupunkilehti.fi
-miilu.fi
-merikarvialehti.fi
-meantornionlaakso.fi
-mattijaliisa.fi
-mantsalanuutiset.fi
-mantsalansanomat.fi
-maaseuduntulevaisuus.fi
-lvs.fi
-luumaenlehti.fi
-luoteis-lappi.fi
-loviisansanomat.fi
-lounaislappi.fi
-lopenlehti.fi
-loimaanlehti.fi
-lieksanlehti.fi
-lestijoki.fi
-lauttasaari.fi
-lauttakyla.fi
-laukaa-konnevesi.fi
-lapuansanomat.fi
-lappeenrannanuutiset.fi
-lapinkansa.fi
-lansivayla.fi
-lansi-uusimaa.fi
-lansi-suomi.fi
-lansi-savo.fi
-lansisaimaa.fi
-laitilansanomat.fi
-kyronmaa-lehti.fi
-kymensuu.fi
-kymensanomat.fi
-kuusamonseutu.fi
-kurikka-lehti.fi
-kuriirilehti.fi
-kuntsari.fi
-kuhmolainen.fi
-kuhmoistensanomat.fi
-ksml.fi
-kouvolansanomat.fi
-kotiseutu-uutiset.fi
-kotiseudunsanomat.fi
-kotilappi.fi
-kotikulmilta.fi
-kotikarjala.fi
-koti-kajaani.fi
-korpilahtilehti.fi
-komiat.fi
-kokkola-lehti.fi
-koillis-savo.fi
-koillissanomat.fi
-kmvlehti.fi
-kiuruvesilehti.fi
-kittilalehti.fi
-keski-uusimaa.fi
-keski-uusimaa.fi
-keskipohjanmaa.fi
-keskilaakso.fi
-keski-hame.fi
-kauppalehti.fi
-kauhajoki-lehti.fi
-karkkilantienoo.fi
-karkkilalainen.fi
-karjalainen.fi
-kansanuutiset.fi
-kankaanpaanseutu.fi
-kangasniemenlehti.fi
-kangasalansanomat.fi
-kaleva.fi
-kalajokiseutu.fi
-kalajokilaakso.fi
-kalajokilaakso.fi
-kainuunsanomat.fi
-kaarina-lehti.fi
-kaakonkulma.fi
-juvanlehti.fi
-jurvansanomat.fi
-jp-kunnallissanomat.fi
-joutsenolehti.fi
-joutsanseutu.fi
-joroistenlehti.fi
-jarviseutu-lehti.fi
-jarviseudunsanomat.fi
-janakkalansanomat.fi
-jamsanseutu.fi
-jamsanseutu.fi
-itavayla.fi
-ita-savo.fi
-itahame.fi
-is.fi
-inarilainen.fi
-iltalehti.fi
-ilmajoki-lehti.fi
-ilkkapohjalainen.fi
-iitinseutu.fi
-iisalmensanomat.fi
-iijokiseutu.fi
-hs.fi
-hevosurheilu.fi
-helsinginuutiset.fi
-heinavedenlehti.fi
-heili.fi
-hbl.fi
-hankasalmensanomat.fi
-hameensanomat.fi
-hameenlinnankaupunkiuutiset.fi
-haapavesi-lehti.fi
-forum24.fi
-forssanlehti.fi
-ess.fi
-esaimaa.fi
-epari.fi
-enontekionsanomat.fi
-avl.fi
-au.fi
-alueviesti.fi
-alasatakunta.fi
-aksa.fi
-akaanseutu.fi
-aamuset.fi
-aamuposti.fi
-aamulehti.fi
+0.0.0.0 ylojarvenuutiset.fi
+0.0.0.0 ylasatakunta.fi
+0.0.0.0 ylakarjala.fi
+0.0.0.0 ylakainuu.fi
+0.0.0.0 warkaudenlehti.fi
+0.0.0.0 viitasaarenseutu.fi
+0.0.0.0 viispiikkinen.fi
+0.0.0.0 viiskunta.fi
+0.0.0.0 viikkosavo.fi
+0.0.0.0 vihdinuutiset.fi
+0.0.0.0 verkkouutiset.fi
+0.0.0.0 vastranyland.fi
+0.0.0.0 vasabladet.fi
+0.0.0.0 vantaansanomat.fi
+0.0.0.0 valkeakoskensanomat.fi
+0.0.0.0 vakka.fi
+0.0.0.0 vaasalehti.fi
+0.0.0.0 vaarojensanomat.fi
+0.0.0.0 uutisvuoksi.fi
+0.0.0.0 uutismediat.fi
+0.0.0.0 uutisluotsi.fi
+0.0.0.0 uutis-jousi.fi
+0.0.0.0 uusisuomi.fi
+0.0.0.0 uusirovaniemi.fi
+0.0.0.0 uusimaa.fi
+0.0.0.0 uusilahti.fi
+0.0.0.0 uudenkaupunginsanomat.fi
+0.0.0.0 urjalansanomat.fi
+0.0.0.0 ulvilanseutu.fi
+0.0.0.0 tyrvaansanomat.fi
+0.0.0.0 turuntienoo.fi
+0.0.0.0 turunseutusanomat.fi
+0.0.0.0 turkulainen.fi
+0.0.0.0 ts.fi
+0.0.0.0 torstai-lehti.fi
+0.0.0.0 tervareitti.fi
+0.0.0.0 tejuka-lehti.fi
+0.0.0.0 tamperelainen.fi
+0.0.0.0 sydin.fi
+0.0.0.0 sydansatakunta.fi
+0.0.0.0 suurkeuruu.fi
+0.0.0.0 suupohjansanomat.fi
+0.0.0.0 suomenmaa.fi
+0.0.0.0 sulkavalehti.fi
+0.0.0.0 sss.fi
+0.0.0.0 sotkamolehti.fi
+0.0.0.0 sompio.fi
+0.0.0.0 somerolehti.fi
+0.0.0.0 soisalonseutu.fi
+0.0.0.0 sjl.fi
+0.0.0.0 sisis.fi
+0.0.0.0 sisasuomenlehti.fi
+0.0.0.0 sisa-savolehti.fi
+0.0.0.0 sipoonsanomat.fi
+0.0.0.0 siikajokilaakso.fi
+0.0.0.0 sievilainenlehti.fi
+0.0.0.0 shl.fi
+0.0.0.0 seutuneloset.fi
+0.0.0.0 seutuneloset.fi
+0.0.0.0 seutuneloset.fi
+0.0.0.0 seutuneloset.fi
+0.0.0.0 seutumajakka.fi
+0.0.0.0 selanne-lehti.fi
+0.0.0.0 savonsanomat.fi
+0.0.0.0 savonmaa.fi
+0.0.0.0 satakunnanviikko.fi
+0.0.0.0 satakunnankansa.fi
+0.0.0.0 sampolehti.fi
+0.0.0.0 ruovesi-lehti.fi
+0.0.0.0 ruovesi-lehti.fi
+0.0.0.0 raumalainen.fi
+0.0.0.0 rantapohja.fi
+0.0.0.0 rantalakeus.fi
+0.0.0.0 rannikkoseutu.fi
+0.0.0.0 raahenseutu.fi
+0.0.0.0 raahenseutu.fi
+0.0.0.0 pyhtaanlehti.fi
+0.0.0.0 pyhajokiseutu.fi
+0.0.0.0 pyhajarvensanomat.fi
+0.0.0.0 puumalalehti.fi
+0.0.0.0 puolankainfo.fi
+0.0.0.0 punkalaitumensanomat.fi
+0.0.0.0 prsanomat.fi
+0.0.0.0 pohjoisenpolut.fi
+0.0.0.0 pohjankyro-lehti.fi
+0.0.0.0 pogostansanomat.fi
+0.0.0.0 pku.fi
+0.0.0.0 pkank.fi
+0.0.0.0 pkank.fi
+0.0.0.0 pitajanuutiset.fi
+0.0.0.0 pitajalainen.fi
+0.0.0.0 pirkkalainen.fi
+0.0.0.0 pietarsaarensanomat.fi
+0.0.0.0 pielisjokiseutu.fi
+0.0.0.0 pielavesi-keitele.fi
+0.0.0.0 pieksamaenlehti.fi
+0.0.0.0 pernionseudunlehti.fi
+0.0.0.0 perhonjokilaakso.fi
+0.0.0.0 paikallisuutiset.fi
+0.0.0.0 padasjoensanomat.fi
+0.0.0.0 outokummunseutu.fi
+0.0.0.0 ostnyland.fi
+0.0.0.0 osterbottenstidning.fi
+0.0.0.0 orivedensanomat.fi
+0.0.0.0 orimattilansanomat.fi
+0.0.0.0 oivaseutu.fi
+0.0.0.0 nykypaiva.fi
+0.0.0.0 nyaostis.fi
+0.0.0.0 nurmijarvenuutiset.fi
+0.0.0.0 nokianuutiset.fi
+0.0.0.0 nivala-lehti.fi
+0.0.0.0 mikkelinkaupunkilehti.fi
+0.0.0.0 miilu.fi
+0.0.0.0 merikarvialehti.fi
+0.0.0.0 meantornionlaakso.fi
+0.0.0.0 mattijaliisa.fi
+0.0.0.0 mantsalanuutiset.fi
+0.0.0.0 mantsalansanomat.fi
+0.0.0.0 maaseuduntulevaisuus.fi
+0.0.0.0 lvs.fi
+0.0.0.0 luumaenlehti.fi
+0.0.0.0 luoteis-lappi.fi
+0.0.0.0 loviisansanomat.fi
+0.0.0.0 lounaislappi.fi
+0.0.0.0 lopenlehti.fi
+0.0.0.0 loimaanlehti.fi
+0.0.0.0 lieksanlehti.fi
+0.0.0.0 lestijoki.fi
+0.0.0.0 lauttasaari.fi
+0.0.0.0 lauttakyla.fi
+0.0.0.0 laukaa-konnevesi.fi
+0.0.0.0 lapuansanomat.fi
+0.0.0.0 lappeenrannanuutiset.fi
+0.0.0.0 lapinkansa.fi
+0.0.0.0 lansivayla.fi
+0.0.0.0 lansi-uusimaa.fi
+0.0.0.0 lansi-suomi.fi
+0.0.0.0 lansi-savo.fi
+0.0.0.0 lansisaimaa.fi
+0.0.0.0 laitilansanomat.fi
+0.0.0.0 kyronmaa-lehti.fi
+0.0.0.0 kymensuu.fi
+0.0.0.0 kymensanomat.fi
+0.0.0.0 kuusamonseutu.fi
+0.0.0.0 kurikka-lehti.fi
+0.0.0.0 kuriirilehti.fi
+0.0.0.0 kuntsari.fi
+0.0.0.0 kuhmolainen.fi
+0.0.0.0 kuhmoistensanomat.fi
+0.0.0.0 ksml.fi
+0.0.0.0 kouvolansanomat.fi
+0.0.0.0 kotiseutu-uutiset.fi
+0.0.0.0 kotiseudunsanomat.fi
+0.0.0.0 kotilappi.fi
+0.0.0.0 kotikulmilta.fi
+0.0.0.0 kotikarjala.fi
+0.0.0.0 koti-kajaani.fi
+0.0.0.0 korpilahtilehti.fi
+0.0.0.0 komiat.fi
+0.0.0.0 kokkola-lehti.fi
+0.0.0.0 koillis-savo.fi
+0.0.0.0 koillissanomat.fi
+0.0.0.0 kmvlehti.fi
+0.0.0.0 kiuruvesilehti.fi
+0.0.0.0 kittilalehti.fi
+0.0.0.0 keski-uusimaa.fi
+0.0.0.0 keski-uusimaa.fi
+0.0.0.0 keskipohjanmaa.fi
+0.0.0.0 keskilaakso.fi
+0.0.0.0 keski-hame.fi
+0.0.0.0 kauppalehti.fi
+0.0.0.0 kauhajoki-lehti.fi
+0.0.0.0 karkkilantienoo.fi
+0.0.0.0 karkkilalainen.fi
+0.0.0.0 karjalainen.fi
+0.0.0.0 kansanuutiset.fi
+0.0.0.0 kankaanpaanseutu.fi
+0.0.0.0 kangasniemenlehti.fi
+0.0.0.0 kangasalansanomat.fi
+0.0.0.0 kaleva.fi
+0.0.0.0 kalajokiseutu.fi
+0.0.0.0 kalajokilaakso.fi
+0.0.0.0 kalajokilaakso.fi
+0.0.0.0 kainuunsanomat.fi
+0.0.0.0 kaarina-lehti.fi
+0.0.0.0 kaakonkulma.fi
+0.0.0.0 juvanlehti.fi
+0.0.0.0 jurvansanomat.fi
+0.0.0.0 jp-kunnallissanomat.fi
+0.0.0.0 joutsenolehti.fi
+0.0.0.0 joutsanseutu.fi
+0.0.0.0 joroistenlehti.fi
+0.0.0.0 jarviseutu-lehti.fi
+0.0.0.0 jarviseudunsanomat.fi
+0.0.0.0 janakkalansanomat.fi
+0.0.0.0 jamsanseutu.fi
+0.0.0.0 jamsanseutu.fi
+0.0.0.0 itavayla.fi
+0.0.0.0 ita-savo.fi
+0.0.0.0 itahame.fi
+0.0.0.0 is.fi
+0.0.0.0 inarilainen.fi
+0.0.0.0 iltalehti.fi
+0.0.0.0 ilmajoki-lehti.fi
+0.0.0.0 ilkkapohjalainen.fi
+0.0.0.0 iitinseutu.fi
+0.0.0.0 iisalmensanomat.fi
+0.0.0.0 iijokiseutu.fi
+0.0.0.0 hs.fi
+0.0.0.0 hevosurheilu.fi
+0.0.0.0 helsinginuutiset.fi
+0.0.0.0 heinavedenlehti.fi
+0.0.0.0 heili.fi
+0.0.0.0 hbl.fi
+0.0.0.0 hankasalmensanomat.fi
+0.0.0.0 hameensanomat.fi
+0.0.0.0 hameenlinnankaupunkiuutiset.fi
+0.0.0.0 haapavesi-lehti.fi
+0.0.0.0 forum24.fi
+0.0.0.0 forssanlehti.fi
+0.0.0.0 ess.fi
+0.0.0.0 esaimaa.fi
+0.0.0.0 epari.fi
+0.0.0.0 enontekionsanomat.fi
+0.0.0.0 avl.fi
+0.0.0.0 au.fi
+0.0.0.0 alueviesti.fi
+0.0.0.0 alasatakunta.fi
+0.0.0.0 aksa.fi
+0.0.0.0 akaanseutu.fi
+0.0.0.0 aamuset.fi
+0.0.0.0 aamuposti.fi
+0.0.0.0 aamulehti.fi
