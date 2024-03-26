@@ -1,1 +1,3 @@
-0.0.0.0 (.|^)fi$
+^.*\.(surf|casa|live|icu|gq|info|ml|tk|cam|top)$
+^.*\.(zw|bd|ke|am|sbs|date|pw|quest|cd|bid|ws|ga|cf)$
+^.*\.(casino|xxx|poker|porn|bet|sex|sexy|adult|webcam)$
